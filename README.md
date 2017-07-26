@@ -1,3 +1,3 @@
 # PythonStuff
 
-Random stuff in python.
+Random Python stuff.
