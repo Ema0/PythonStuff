@@ -1,2 +1,3 @@
-"# PythonStuff" 
-"# PythonStuff" 
+# PythonStuff
+
+Random stuff in python.
